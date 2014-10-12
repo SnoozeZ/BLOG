@@ -9,7 +9,7 @@ SITEURL = 'http://wqzhang.com'
 #added by snooze
 GOOGLE_ANALYTICS = 'UA-39331985-2'
 THEME = "themes/my-pelican-bootstrap3"
-RELATIVE_URLS = True	# True when developing
+RELATIVE_URLS = False	# True when developing
 DISPLAY_CATEGORIES_ON_MENU = False
 ######################
 TIMEZONE = 'Europe/Paris'
@@ -30,8 +30,6 @@ LINKS =  (('Pelican', 'http://getpelican.com/'),
 # Social widget
 SOCIAL = (('Linkedin','https://www.linkedin.com/pub/weiqi-zhang/6a/688/64a'),
 		('Github', 'https://github.com/SnoozeZ'),
-		('Facebook','https://www.facebook.com/weiqi.zhang.731'),
-		  
 		  )
 
 DEFAULT_PAGINATION = 6

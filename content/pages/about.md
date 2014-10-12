@@ -5,11 +5,9 @@ Tags: about
 Authors: Weiqi Zhang
 Category: Other
 
-<img src="http://mt1.baidu.com/timg?wh_rate=0&wapiknow&quality=100&size=w250&sec=0&di=38cc2878e74cc90239c9e23ab7e84d04&src=http%3A%2F%2Fimg.iknow.bdimg.com%2Fjctuijian%2F1012%2F6.jpg" align="right">
-Hi! I'm Weiqi Zhang, an senior student at [Southeast University](http://www.seu.edu.cn/), China, major in Computer Science and technology. Now I'm an undergraduate research assistant in [Distributed Intelligence and Social Computing Laboratory](http://cse.seu.edu.cn/PersonalPage/ycjiang/index.htm).
-I'm mainly interested in machine learning and multi-agent based complex network.
-
-
+<img src="/pic/my_photo.jpg" align="right" width="15%">
+Hi! I'm Weiqi Zhang, an senior student at [Southeast University](http://www.seu.edu.cn/), China, major in Computer Science and technology. Now I'm an undergraduate research assistant in [Distributed Intelligence and Social Computing Laboratory(DISC Lab)](http://cse.seu.edu.cn/PersonalPage/ycjiang/index.htm).
+I'm mainly interested in data mining and multi-agent based complex network.
 
 I seek the following opportunities, you are free to contact me about it:  
 
@@ -17,7 +15,9 @@ I seek the following opportunities, you are free to contact me about it:
 * Internships in IT companies in Beijing/Shanghai/Nanjing.
 
 
-
+Here is my CV: [PDF version](http://www.wqzhang.com/materials/cv.pdf).
 
 Email: wqzhang93[at]gmail[dot]com
-Here is my CV: [PDF version](http://www.wqzhang.com/materials/cv.pdf).
+
+
+
