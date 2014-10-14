@@ -22,10 +22,10 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-'''
-LINKS =  (('Pelican', 'http://getpelican.com/'),
+
+LINKS =  (('Markdown Online Editor', 'http://dillinger.io/'),
           
-          )'''
+          )
 
 # Social widget
 SOCIAL = (('Linkedin','https://www.linkedin.com/pub/weiqi-zhang/6a/688/64a'),
