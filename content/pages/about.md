@@ -4,9 +4,10 @@ Modified: 2014-07-11 19:05
 Tags: about
 Authors: Weiqi Zhang
 Category: Other
+URL:
+save_as: index.html
 
-<img src="/pic/my_photo.jpg" align="right" width="15%">
-Hi! I'm Weiqi Zhang, an senior student at [Southeast University](http://www.seu.edu.cn/), China, major in Computer Science and technology. Now I'm an undergraduate research assistant in [Distributed Intelligence and Social Computing Laboratory(DISC Lab)](http://cse.seu.edu.cn/PersonalPage/ycjiang/index.htm).
+Hi! I'm Weiqi Zhang, an senior student at [Southeast University](http://www.seu.edu.cn/), China, major in Computer Science and Technology. Now I'm an trainee researcher in [Team for Universal Learning and Intelligent Processing (TULIP) Lab](http://www.tulip.org.au).
 I'm mainly interested in data mining and multi-agent based complex network.
 
 I seek the following opportunities, you are free to contact me about it:  
